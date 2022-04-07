@@ -1,1 +1,1 @@
-# dev_node
+npm run dev
